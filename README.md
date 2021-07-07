@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Werner2100
 - 👀 I’m interested in IT, Sports, UAP and Science
 - 🌱 At the moment I am working on a customer project  with  postgres/golang/flutter stack (running on Docker)
-- 💞️ I’m looking to collaborate on cool Go projects
+- 💞️ i am looking for exciting Go challenges at the backend
 - 📫 werner2111@gmail.com
 
 <!---
