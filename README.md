@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Werner2100
 - 👀 I’m interested in IT, Sports, UAP and Science
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently developing an app with  postgres/golang/flutter stack (running on Docker)
 - 💞️ I’m looking to collaborate on cool Go projects
-- 📫 How to reach me whenever you want to
+- 📫 werner2111@gmail.com
 
 <!---
 Werner2100/Werner2100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
